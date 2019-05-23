@@ -44,13 +44,4 @@ printf("\n String usage in line %d is validated!",lineno);
 }
 return 0;
 }
-file.txt
-#include<stdio.h>
-#include<conio.h>
-int s[35]="gh"; 
-void main(){
-int a;
-char c[10]="msrit",f[]="lk;
-strlen("hjkl);
-a=a+/*b;
-}
+
